@@ -6,7 +6,7 @@ def increment_short_id(current_id, max_id):
     else:
         short_id = current_id + 1
 
-    return short_id
+    print (short_id)
     
 
 if __name__ == '__main__':
