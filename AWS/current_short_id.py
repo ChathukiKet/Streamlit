@@ -1,1 +1,1 @@
-current_short_id = 
+current_short_id = 0
